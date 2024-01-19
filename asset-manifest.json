@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/polo-website/static/css/main.9c0b030e.css",
+    "main.js": "/polo-website/static/js/main.10efaadc.js",
+    "static/media/image 1.jpg": "/polo-website/static/media/image 1.0d3f18b852401fef0b31.jpg",
+    "static/media/image 2.jpg": "/polo-website/static/media/image 2.e1924bb120e86a7b6662.jpg",
+    "static/media/image 3.jpg": "/polo-website/static/media/image 3.8b7fa748df3c6fa14168.jpg",
+    "static/media/image 6.webp": "/polo-website/static/media/image 6.dc57f1ab821faf91ffbc.webp",
+    "static/media/image 8.webp": "/polo-website/static/media/image 8.67942e6e9619c6319b66.webp",
+    "static/media/image 7.webp": "/polo-website/static/media/image 7.a78e96aa3ab725d96394.webp",
+    "static/media/image 5.webp": "/polo-website/static/media/image 5.a87e672ca5a6e738325d.webp",
+    "index.html": "/polo-website/index.html",
+    "main.9c0b030e.css.map": "/polo-website/static/css/main.9c0b030e.css.map",
+    "main.10efaadc.js.map": "/polo-website/static/js/main.10efaadc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c0b030e.css",
+    "static/js/main.10efaadc.js"
+  ]
+}
